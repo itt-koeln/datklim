@@ -7,7 +7,8 @@ has_children: true
 
 ## Introduction to Climate Change
 
-In the following sub-units, we will provide an introduction to climate change. 
+In the following sub-units, we will provide an introduction to climate change. <br>
+
 |Unit|Sub-Unit|Learning objectives|
 |:---------|:--------------|:------------------------------------------------------------|
 |Introduction| The Science of Climate Change| Learning about the fundamentals aspects of climate change and understanding the implications|
