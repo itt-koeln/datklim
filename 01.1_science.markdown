@@ -10,4 +10,6 @@ In the following section, we want to provide you with an overview of how the cur
 
 ## Weather & climate; climate change and climate variability
 
-The first thing we need to be aware of, is the different 
+The first thing we need to be aware of, is the different <br>
+
+<img src="images/ITT_logo_2021_mit_Fak.png">
