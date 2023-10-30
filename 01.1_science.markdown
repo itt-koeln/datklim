@@ -4,8 +4,8 @@ title: The Science of Climate Change
 permalink: /Science/
 parent: Introduction
 ---
-# **1. The Science of Climate Change 1** {: .fs-6}
+# **1. The Science of Climate Change 1** 
 
-{The Science of climate change 2.fs-6}
-{.fs6} The Science of Climate Change(3)
-{:The sciene of climate change 4.fs-10}
+## Weather vs. Climate##
+
+The first thing we need to be aware of, is 

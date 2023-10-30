@@ -2,17 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+search_enabled: true
+logo: "![ITT TH Köln](images/ITT_logo_2021_mit_Fak.png)
+
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Welcome ## 
+to the website of the CC Adapt learning course. Our objective is to make climate change adaptation accessible for municipalities. 
+To the left, you can find the topics that we have implemented into the course so far. In the further process of website development, a more detailed structure will be implemented.
+Until then, feel free to have a look around!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
