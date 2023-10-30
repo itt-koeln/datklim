@@ -4,8 +4,10 @@ title: The Science of Climate Change
 permalink: /Science/
 parent: Introduction
 ---
-# **1. The Science of Climate Change 1** 
+# **1. The Science of Climate Change** 
 
-## Weather vs. Climate##
+In the following section, we want to provide you with an overview of how the current scientitic understanding on climate change looks like. In order to do this, we will first define a few key terms and concepts, before moving onto the evidence that we have and what this means for us.
 
-The first thing we need to be aware of, is 
+## Weather & climate; climate change and climate variability
+
+The first thing we need to be aware of, is the different 
