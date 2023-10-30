@@ -4,6 +4,10 @@ title: The Science of Climate Change
 permalink: /Science/
 parent: Introduction
 ---
+
+<img src=images/mika-baumeister-UHVndV0rsqw-unsplash.jpg> width="150" height="250"
+<small> Image by <a href="https://unsplash.com/de/@mbaumi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mika Baumeister</a> auf <a href="https://unsplash.com/de/fotos/menschen-die-tagsuber-auf-der-strasse-spazieren-gehen-UHVndV0rsqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> </small>
+  
 # **1. The Science of Climate Change** 
 
 In the following section, we want to provide you with an overview of how the current scientitic understanding on climate change looks like. In order to do this, we will first define a few key terms and concepts, before moving onto the evidence that we have and what this means for us.
@@ -12,7 +16,7 @@ In the following section, we want to provide you with an overview of how the cur
 
 The first thing we need to be aware of, is the different <br>
 
-<img src="images/li-an-lim-ycW4YxhrWHM-unsplash.jpg">
+<img src="images/li-an-lim-ycW4YxhrWHM-unsplash.jpg"> width="350" height="250"
 <small> Photo by <a href="https://unsplash.com/de/@li_anlim?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Li-An Lim</a> auf <a href="https://unsplash.com/de/fotos/b-%ED%96%89%EC%84%B1%EC%9D%B4-%EC%97%86%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%84%B0%EB%A5%BC-%EB%93%A4%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-ycW4YxhrWHM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> </small>
 
 
