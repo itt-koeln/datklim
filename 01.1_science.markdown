@@ -2,8 +2,14 @@
 layout: page
 title: The Science of Climate Change
 permalink: /Science/
+parent: Introduction
 ---
 
 **Test**
+
 *Test*
-***Test*** 
+
+***Test***
+
+# **1. The Science of Climate Change**
+
