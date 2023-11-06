@@ -10,10 +10,14 @@ has_children: true
 In the following sub-units, we will provide an introduction to climate change. <br>
 
 Sub-Unit|Learning objectives|
-:--------------|:------------------------------------------------------------------------------------------------------|
- The Science of Climate Change| Learning about the fundamentals aspects of climate change and understanding the implications|
- Climate change and variability | Understanding the difference between natural variability and antrophogenic climate change|
- Sub-topic X | Text X|
+:-------------------------------|:-----------------------------------------------------------------------------------------|
+ Understanding Climate Change| Learning about the fundamentals aspects of climate change and understanding the implications|
+ Climate projections | What can we expect of the future? How certain is this?|
+ The impacts of climate change | Understanding how the changes affect different sectors |
+ 
+ 
+ 
+
 
 Alternativ: 
 ### Part 1 
