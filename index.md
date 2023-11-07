@@ -4,12 +4,12 @@ title: Landingpage
 layout: home
 nav_exclude: true
 ---
-# DatKlim2
+# DatKlim
 
 <div class="dropdown">
- <button class="dropdown-trigger btn btn-primary" onclick= "toggleDropdown()">Cluster 1: Basic Knowledge and Data Competence</button>
- <ul class="dropdown-menu">
-    <li><a href ="#"> Cluster 12 </a>
+ <button id= "dropdown-trigger" class="dropdown-trigger btn btn-primary">Cluster 1: Basic Knowledge and Data Competence</button>
+ <ul id= "dropdown-menu" class="dropdown-menu">
+    <li><a href ="#"> Cluster 1 </a>
         <table>
             <tr>
                 <td>Content </td>
@@ -29,12 +29,17 @@ nav_exclude: true
 
 
 <script>
-  function toggleDropdown() {
-    var menu = document.getElementById("menu");
-    if (menu.style.display === "none" || menu.style.display === "") {
-      menu.style.display = "block";
-    } else {
-      menu.style.display = "none";
-    }
-  }
+
+// Get the dropdown button and dropdown menu
+
+const dropdownTrigger = document.getElementById('dropdown-trigger');
+
+const dropdownMenu = document.getElementById('dropdown-menu');
+
+
+// Function to close the dropdown menu and open the rest of the information
+
+function toggleDropdownMenu() {
+
+    dropdownMenu.style.
 </script>
