@@ -122,26 +122,26 @@ nav_exclude: true
 
   <div class="dropdown">
  <details>
- <summary class="dropdown-trigger btn btn-purple-000">Cluster 4: Climate Risk Assessment</summary>
+ <summary class="dropdown-trigger btn btn-red">Cluster 4: Climate Risk Assessment</summary>
   </details>
 	</div>
 
   <div class="dropdown">
  <details>
- <summary class="dropdown-trigger btn btn-blue-200">Cluster 5: Developing Adaptation Measures</summary>
+ <summary class="dropdown-trigger btn btn-grey">Cluster 5: Developing Adaptation Measures</summary>
   </details>
 	</div>
 
 
   <div class="dropdown">
  <details>
- <summary class="dropdown-trigger btn btn-yellow-300">Cluster 6: Measure Evaluation and Planning</summary>
+ <summary class="dropdown-trigger btn btn-brown">Cluster 6: Measure Evaluation and Planning</summary>
   </details>
 	</div>
 
   <div class="dropdown">
  <details>
- <summary class="dropdown-trigger btn btn-red-200">Cluster 7: Implementation and Monitoring</summary>
+ <summary class="dropdown-trigger btn btn-orange">Cluster 7: Implementation and Monitoring</summary>
   </details>
 	</div>
 
