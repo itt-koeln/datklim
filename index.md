@@ -7,7 +7,8 @@ nav_exclude: true
 # DatKlim
 
 <div class="dropdown">
- <button id= "dropdown-trigger" class="dropdown-trigger btn btn-primary">Cluster 1: Basic Knowledge and Data Competence</button>
+ <details>
+ <summary><button id= "dropdown-trigger" class="dropdown-trigger btn btn-primary">Cluster 1: Basic Knowledge and Data Competence</button></summary>
  <ul id= "dropdown-menu" class="dropdown-menu">
     <li><a href ="#"> Cluster 1 </a>
         <table>
@@ -25,6 +26,7 @@ nav_exclude: true
     <li><a href="#">Menu Item 2</a></li>
     <li><a href="#">Menu Item 3</a></li>
  </ul>
+ </details>
 </div>
 
 
