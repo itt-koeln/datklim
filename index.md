@@ -101,9 +101,9 @@ nav_exclude: true
           <tr>
             <td>Climate Change Adaptation Frameworks </td>
             <td>
-              <strong>What:</strong>  Studying essential framework components for adaptation strategy development at different spatial scales <br>
+              <strong>What:</strong> Studying essential framework components for adaptation strategy development at different spatial scales <br>
               <strong>How:</strong> Reviewing existing frameworks on different scales of adaptation strategy, for example within the EU, in Germany, on regional or municipal level <br>
-              <strong>Why:</strong>   Framework of adaptation strategy development is elemental for appliance of any further strategy according to the AoI defined. 
+              <strong>Why:</strong> Framework of adaptation strategy development is elemental for appliance of any further strategy according to the AoI defined. 
             </td>
           </tr>
         </table>
@@ -112,3 +112,38 @@ nav_exclude: true
     </ul>
   </details>
 </div>
+
+<div class="dropdown">
+ <details>
+ <summary class="dropdown-trigger btn btn-green">Cluster 3: Holistic Thinking</summary>
+  </details>
+	</div>
+
+
+  <div class="dropdown">
+ <details>
+ <summary class="dropdown-trigger btn btn-green">Cluster 4: Climate Risk Assessment</summary>
+  </details>
+	</div>
+
+  <div class="dropdown">
+ <details>
+ <summary class="dropdown-trigger btn btn-green">Cluster 5: Developing Adaptation Measures</summary>
+  </details>
+	</div>
+
+
+  <div class="dropdown">
+ <details>
+ <summary class="dropdown-trigger btn btn-green">Cluster 6: Measure Evaluation and Planning</summary>
+  </details>
+	</div>
+
+  <div class="dropdown">
+ <details>
+ <summary class="dropdown-trigger btn btn-green">Cluster 7: Implementation and Monitoring</summary>
+  </details>
+	</div>
+
+
+  
