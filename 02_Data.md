@@ -16,6 +16,10 @@ Under a world of rapid advancement of technology and the proliferation of digita
 
 This learning unit goes through some basics of defining the challenges of data and what the steps are to become a data literate.
 
-<img src="datklim/images/DaLi_wheel.png" width="600" height="600"> 
+<img src="_site/assets/images/DaLi_wheel.png" width="600" height="600"> 
+<img src="./_site/assets/images/DaLi_wheel.png" width="600" height="600"> 
+<img src="datklim/_site/assets/images/DaLi_wheel.png" width="600" height="600"> 
+<img src="assets/images/DaLi_wheel.png" width="600" height="600"> 
+
 
 <img src="https://github.com/itt-koeln/datklim/blob/main/images/mika-baumeister-UHVndV0rsqw-unsplash.jpg" width="350" height="250">
