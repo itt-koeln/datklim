@@ -3,6 +3,7 @@ layout: page
 title: Introduction to Data Literacy
 permalink: /Science/
 parent: Introduction
+has_children: yes
 ---
 
 # How many times have you been checking the news? reviewing forecasting? and asking yourself... is this data correct? from where does it come?
