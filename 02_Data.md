@@ -18,3 +18,4 @@ This learning unit goes through some basics of defining the challenges of data a
 
 <img src="images/DaLi_wheel.png" width="350" height="250">
 
+<img src="https://github.com/itt-koeln/datklim/blob/main/images/mika-baumeister-UHVndV0rsqw-unsplash.jpg" width="350" height="250"
