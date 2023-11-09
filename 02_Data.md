@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Data_Literacy
+title: Data
 permalink: /Science/
-parent: Introduction
 has_children: yes
 ---
 
