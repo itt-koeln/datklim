@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-nav_order: 1
+nav_order: 2
 search_enabled: true
 logo: images/ITT_logo_2021_mit_Fak.png
 ---
