@@ -9,7 +9,7 @@ search_enabled: true
 ## The context of DatKlim
 
 <img src="/datklim/images/DAS.png" width=200>
-<img src="/datklim/images/APAIII.jpg" width=200>
+<img src="/datklim/images/APAII.PNG.jpg" width=200>
 <img src="/datklim/images/Klimabericht_NRW.png" width=200> 
 
 In 2008, the German Adaptation Strategy to Climate Change (DAS) was published. It essentially focuses on the overarching areas of adaptation and the general objectives of climate change adaptation in Germany. Originally, there were 16 fields of action, which have by now been summarized into 6 clusters. In addition to the original strategy, there have been two reports on the progress and three action plans for the coming years at that point in time. The most recent one is the “Aktionsplan Anpassung” from 2020, which focuses on specific measures that should be implemented between 2020 and 2024, to decrease climate risks in all six clusters. 
