@@ -9,9 +9,9 @@ search_enabled: true
 ## Welcome ## 
 to the website of the CC Adapt learning course. Our objective is to make climate change adaptation accessible for municipalities. <br>
 
-<img src=/datklim/images/DAS.png width=86 height=122>
-<img src=/datklim/images/APA.jpg width=103 height=105>
-<img src=/datklim/images/Klimabericht NRW.jpg width=86 height=122>
+<img src="/datklim/images/DAS.png" width=86 height=122>
+<img src="/datklim/images/APA.jpg" width=103 height=105>
+<img src="/datklim/images/Klimabericht NRW.jpg" width=86 height=122>
 
 <br>
 <br>
@@ -40,13 +40,13 @@ According to the most recent progress report (APA III, 2020), municipalities str
 This is where <b>DatKlim</b> comes into play.
 <br>
 
-<img src=/datklim/images/DatKlim_3boxes.PNG>
+<img src="/datklim/images/DatKlim_3boxes.PNG">
 
 <br>
 
 DatKlim aims to enable meaningful climate change adaptation on the municipal level through providing date literacy, an understanding of climate change, as well as the necessary steps to actually imply climate change adaptation measures. To do this, the project contains the following clusters: 
 <br>
-<img src=/workspaces/datklim/images/DatKlim_Wheel.PNG>
+<img src="/workspaces/datklim/images/DatKlim_Wheel.PNG">
 <br>
 An overview over the contents of each cluster is provided in the following boxes:
 <br>
