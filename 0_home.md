@@ -9,7 +9,7 @@ search_enabled: true
 ## The context of DatKlim
 
 <img src="/datklim/images/DAS.png" width=200>
-<img src="/datklim/images/APA.jpg" width=200>
+<img src="/datklim/images/APAIII.jpg" width=200>
 <img src="/datklim/images/Klimabericht_NRW.png" width=200> 
 
 <br>
@@ -41,13 +41,13 @@ This is where <b>DatKlim</b> comes into play.
 
 <br>
 
-DatKlim aims to enable meaningful climate change adaptation on the municipal level through providing date literacy, an understanding of climate change, as well as the necessary steps to actually imply climate change adaptation measures. To do this, the project contains the following clusters: 
+DatKlim aims to enable meaningful climate change adaptation on the municipal level through providing date literacy, an understanding of climate change, as well as the necessary steps to actually imply climate change adaptation measures. To do this, the project contains the following clusters and primary contents: 
 <br>
 
 <img src="/datklim/images/DatKlim_Wheel.PNG">
 
 <br>
-An overview over the contents of each cluster is provided in the following boxes:
+To get a detailed overview into the contents of each cluster, please see the following boxes, or the respective main pages on the left:
 
 <br>
 
