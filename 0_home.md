@@ -6,14 +6,12 @@ nav_order: 1
 search_enabled: true
 ---
 
-## Welcome ## 
-to the website of the CC Adapt learning course. Our objective is to make climate change adaptation accessible for municipalities. <br>
+## The context of DatKlim
 
-<img src="/datklim/images/DAS.png" width=86 height=122>
-<img src="/datklim/images/APA.jpg" width=103 height=105>
-<img src="/datklim/images/Klimabericht NRW.jpg" width=86 height=122>
+<img src="/datklim/images/DAS.png">
+<img src="/datklim/images/APA.jpg">
+<img src="/datklim/images/Klimabericht_NRW.jpg">
 
-<br>
 <br>
 
 In 2008, the German Adaptation Strategy to Climate Change (DAS) was published. It essentially focuses on the overarching areas of adaptation and the general objectives of climate change adaptation in Germany. Originally, there were 16 fields of action, which have by now been summarized into 6 clusters. In addition to the original strategy, there have been two reports on the progress and three action plans for the coming years at that point in time. The most recent one is the “Aktionsplan Anpassung” from 2020, which focuses on specific measures that should be implemented between 2020 and 2024, to decrease climate risks in all six clusters. 
@@ -21,7 +19,6 @@ In 2008, the German Adaptation Strategy to Climate Change (DAS) was published. I
 <br>
 
 While there is a lot to be done on a national level in terms of governance, capacity building and financial support, the ultimate adaptation always happens on a local or regional level, since no “one size fits all” adaptation solution exists. Instead, local circumstances have to be considered, in order to tailor the most suitable adaptation measures for each and every location. The role of the state is to „ provide knowledge, inform and empower the municipalities” (APA III) to conceptualize and implement their individual adaptation strategies. 
-
 
 <br>
 The DAS and its subsequent reports of progress therefore highlight the need for the contribution of municipalities in climate change adaptation. At the same time, some general guidance is given to the process of climate change adaptation (German Government 2015): <br>
@@ -46,7 +43,7 @@ This is where <b>DatKlim</b> comes into play.
 
 DatKlim aims to enable meaningful climate change adaptation on the municipal level through providing date literacy, an understanding of climate change, as well as the necessary steps to actually imply climate change adaptation measures. To do this, the project contains the following clusters: 
 <br>
-<img src="/workspaces/datklim/images/DatKlim_Wheel.PNG">
+<img src="/datklim/images/DatKlim_Wheel.PNG">
 <br>
 An overview over the contents of each cluster is provided in the following boxes:
 <br>
