@@ -17,3 +17,22 @@ Under a world of rapid advancement of technology and the proliferation of digita
 This learning unit goes through some basics of defining the challenges of data and what the steps are to become a data literate.
 
 <img src="/datklim/images/DaLi_wheel.png">
+
+
+Learning Outcomes-Data Literacy
+
+# Part I: Understanding Climate Data
+
+**What:** This learning unit aims to provide general insights into the use, the quality, and the sources of data.
+
+**How:** Showing the relevance of data for climate change; providing relevant databases and tools.
+
+**Why:** Enabling the learner to understand the common use of data, since the reliability, availability, and accessibility of various data sources are increasing.
+
+# Part II: Data and Governance
+
+**What:** The learner learns to understand the different levels of climate data, both in a hierarchical and geographical sense. He/she also learns to evaluate the quality and availability of data.
+
+**How:** Getting to know different data sources and the underlying hierarchy structures.
+
+**Why:** Equipping the learner with the ability to find data on the right level and judge its quality.
