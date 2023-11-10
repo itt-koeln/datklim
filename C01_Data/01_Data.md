@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data
-permalink: /Science/
+permalink: /data/
 nav_order: 2
 has_children: yes
 ---
